@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![image](https://github.com/user-attachments/assets/3db744eb-3513-48f8-ae14-7c6578117b1e)
 
 
  
@@ -62,8 +62,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![image](https://github.com/user-attachments/assets/e72a78a5-61ad-4b7d-b946-974e71ad030f)
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +74,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![image](https://github.com/user-attachments/assets/78f0ba5a-0f6d-451f-8952-9f41922c0b25)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +86,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+![image](https://github.com/user-attachments/assets/0219eeaa-640e-49d5-a0a7-f0341fd1092a)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+![image](https://github.com/user-attachments/assets/1b1dab52-ff89-4b08-a5ad-f416813da975)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ ![image](https://github.com/user-attachments/assets/38f2de32-367d-47e2-8457-bc4b420fc9ca)
+
 
 
 
